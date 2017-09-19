@@ -89,3 +89,29 @@ Other issues to pay attention to in the e-learning environment:
 
 E-learning can also be seen as a compliment to traditional classroom learning instead of a complete replacement.
 - This can be done by integrating appropriate pedagogical methods to interactive systems.
+
+### [e-Learning Is the the "e" or the learning that matters?]()
+Companies are using e-learning systems as differentiators and capital through relying on the rapid absorbing of information
+
+The focus should be more on the learning rather than the actual e-learning platforms. As it was found that there is already many e-learning solutions but not so much relevant and useful content for learning.
+
+Elements of e-learning content
+- **Information architecture** - it is considered as the process of translating user requirements into function definitions while at the same time being aware of information overload and the many issues faced with content delivery.
+
+- **User interface design** and cognitive processes involved in learning - UI facilitates learning through ease of learning, efficiency of use, memorability, error frequency, and subjective satisfaction.
+
+- **Content strategy** - attention must be given to how content is organized. The idea is to organize the content in a way that is pleasing for the user consuming the type of content being put out by the e-learning platform. (e.g., lists and pyramids are effective strategies)
+
+- **Pedagogical dimensions** for quality e-learning experiences
+  - **Constructivist approach** - all new knowledge is based on the foundation of prior knowledge. Attention to information delivery strategies must be considered to achieve effective learning experiences for users. In other words, the user must have access to additional knowledge or information on demand, instead of the user having to search for this information, which can lead to confusion and lack of interest in the content being provided, due to lack of organization and friendliness, usefulness, and resourcefulness.
+    - Discussion - How to achieve this in text-based medium where content is mostly static and the functions available are limited.
+  - **Self-directed learning** - students must be given useful guides that warrant continuous learning and allows them to achieve their learning goals and the same time allows them to self-assess their knowledge.
+    - Discussion - For text-based learning content it is important to link to relevant links that allows the learning experience to continue rather than stagnate the learning journey. **Course structure** map or syllabus are useful for these type of issues. E.g., relevant exercises can be provided to allows users to self-assess their progress in learning. It is also important that learners are made aware of what competencies are being acquired if those exercises are successfully completed.
+  - **Evoke intrinsic motivation** - Where emotions and learning are concerned, learners must be kept in positive emotive states for them to feel motivated while learning.
+    - Negative tensions can come about through some required skills or some other factors. These can be minimized through the offering of support features such as chats, etc.
+  - **Reflective approach** - access to learning material at any time
+  - **Individual learning styles** - e-learning systems must offer maximum flexibility to satisfy all different types of learners. From the fast learners to the slow learners.
+  - **Experiential learning** - at the end of the say the system is measured how effective it is not by design elements but by how actionable the knowledge is that is being learned.
+  - **Learning both a private and social activity** - Feature to achieve both social and private learning must be taken into account
+  - **Learning is not linear** - learning in a spiraling manner so as to learn topics at a deep and detailed level.
+    - Discussion: In text-based material, what kind of techniques can be used to support this type of non-linear learning?

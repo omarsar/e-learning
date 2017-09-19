@@ -115,3 +115,4 @@ Elements of e-learning content
   - **Learning both a private and social activity** - Feature to achieve both social and private learning must be taken into account
   - **Learning is not linear** - learning in a spiraling manner so as to learn topics at a deep and detailed level.
     - Discussion: In text-based material, what kind of techniques can be used to support this type of non-linear learning?
+- In conclusion the "e" in e-learning should be redefined to include "experience", "engagement", and other high level contexts. 

@@ -196,3 +196,35 @@ Elements of e-learning content
     - Experts have blind sports - lecturers become detached from the learner's perspective as they become expert in their fields.
     - Educators evoke feelings - lecturers need to keep motivating the learners through constant feedback
     - Higher education should include the conative domain
+        - include cognitive capacity to think, solve problems, and create
+        - affective capacity to value, appreciate, and care
+        - psychomotor capacity to move, perceive, and apply physical skills
+        - conative capacity to act, decide, and commit
+  - Focus on skills such as analyzing, evaluatin, and creating rather than remembering, understanding and applying. 
+      - this is a method to test the conative (will, desire, commitment, mental energy, self-determination)
+      - Another approach to foster authentic learning is by engaging is students that resonate with them, such as hunger, poverty, and other projects with higher purposes
+  - Factors for creating succesful learning environment:
+      - goals, content, instructional design, learner tasks, instructor tolres, student roles, technological affordances and assessment
+  - The creation of authentic content may include:
+      - historical document
+      - scientific data
+      - problem-based activities
+      - go from lecturer to colearner
+      - encourage collaboration
+      - support simulations and visualizations
+      - design effective assessment strategies
+      - find important strategies to test student performance besides the conventional multiple choice tactics
+
+- **Why is Authentic Learning Important**
+  - Student must be trained to think creatively and perform to the best of their capacities, as if there working in the real world
+  - This fosters a different mindset to test students and assess their learning progress and process
+  - This also opens opportunities for students as they can better understand what is expected of them outside a learning environment as to prepare better for it
+  - Expert thinking and Complex communication will set apart the authentic learners (with transcending careers) from those with little opportunity'
+      - Expert thinking:
+          - find solution for problem without routine solutions
+      - Complex communication:
+          - persuasion, explaining, negotiating, gaining trust, building understanding
+  - Other necessary skills beside the technical ones necessary to become authentic learners:
+      - ethics, integrity, team-worker, critical thinking/reasoning, assembling/organizing information, innovative thinking/creativity
+  - We must move from a dualistic approach of learning and assessing to a more uncertain, ambiguous, and conflicting one.
+      - This fosters problem solving capabilities

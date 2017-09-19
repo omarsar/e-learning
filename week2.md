@@ -90,7 +90,7 @@ Other issues to pay attention to in the e-learning environment:
 E-learning can also be seen as a compliment to traditional classroom learning instead of a complete replacement.
 - This can be done by integrating appropriate pedagogical methods to interactive systems.
 
-### [e-Learning Is the the "e" or the learning that matters?]()
+### [e-Learning - Is the the "e" or the learning that matters?](http://www.sciencedirect.com/science/article/pii/S1096751601000720)
 Companies are using e-learning systems as differentiators and capital through relying on the rapid absorbing of information
 
 The focus should be more on the learning rather than the actual e-learning platforms. As it was found that there is already many e-learning solutions but not so much relevant and useful content for learning.
@@ -115,4 +115,4 @@ Elements of e-learning content
   - **Learning both a private and social activity** - Feature to achieve both social and private learning must be taken into account
   - **Learning is not linear** - learning in a spiraling manner so as to learn topics at a deep and detailed level.
     - Discussion: In text-based material, what kind of techniques can be used to support this type of non-linear learning?
-- In conclusion the "e" in e-learning should be redefined to include "experience", "engagement", and other high level contexts. 
+- In conclusion the "e" in e-learning should be redefined to include "experience", "engagement", and other high level contexts.

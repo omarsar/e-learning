@@ -1,5 +1,4 @@
 ## Week 1
----
 
 ### [Can e-learning replace classroom learning?](http://courses.christopherylam.com/5180/wp-content/uploads/2013/08/zhang2004.pdf)
 
@@ -90,6 +89,8 @@ Other issues to pay attention to in the e-learning environment:
 E-learning can also be seen as a compliment to traditional classroom learning instead of a complete replacement.
 - This can be done by integrating appropriate pedagogical methods to interactive systems.
 
+---
+
 ### [e-Learning - Is the the "e" or the learning that matters?](http://www.sciencedirect.com/science/article/pii/S1096751601000720)
 Companies are using e-learning systems as differentiators and capital through relying on the rapid absorbing of information
 
@@ -111,8 +112,87 @@ Elements of e-learning content
     - Negative tensions can come about through some required skills or some other factors. These can be minimized through the offering of support features such as chats, etc.
   - **Reflective approach** - access to learning material at any time
   - **Individual learning styles** - e-learning systems must offer maximum flexibility to satisfy all different types of learners. From the fast learners to the slow learners.
-  - **Experiential learning** - at the end of the say the system is measured how effective it is not by design elements but by how actionable the knowledge is that is being learned.
+  - **Experiential learning** - at the end of the day the system is measured how effective it is not by design elements but by how actionable the knowledge is that is being learned.
   - **Learning both a private and social activity** - Feature to achieve both social and private learning must be taken into account
   - **Learning is not linear** - learning in a spiraling manner so as to learn topics at a deep and detailed level.
     - Discussion: In text-based material, what kind of techniques can be used to support this type of non-linear learning?
 - In conclusion the "e" in e-learning should be redefined to include "experience", "engagement", and other high level contexts.
+
+---
+### [Authentic Learning for the 21st Century: An Overview]()
+- On why authentic learning is important and effective and how technology supports it
+
+- Students learn by doing and there are many strategies to accomplish with the use of technologies tools, such as :
+  - Communication
+  - Visualization
+  - Simulation
+
+- Discussion: The dimension of "reconstruction" is important for all the different types of online learning materials.
+
+- The problem of learning becomes a problem of:
+  - social and cognitive effort
+  - concrete and abstract
+  - judgment and exploration
+
+- Discussion: Learners can only see the significance and value of online teaching material when they can see what this material can achieve and how the tools provided can be directly applicable to the real world.
+
+- **What is authentic learning**:
+  - Some solutions of authentic learning include multidisciplinary case studies, virtual communities, role-playing, etc.
+  - There are various skills that can be learned from authentic learning:
+    - improved judgment about reliability of information
+    - patience to participate in longer conversations.
+    - improved pattern recognition
+    - improved flexibility
+  - Other areas that are important in authentic learning include:
+    - real world relevance (realistic experience),
+    - ill-defined problems (problems that are open to interpretation)
+    - sustained investigation (problems that require a lot of time and intellectual resources)
+    - multiple sources and perspectives (no resources provided, which improves theoretical and practical perspectives)
+    - collaboration
+    - reflection (metacognition) - allows students to reflect on their learning in different ways
+    - interdisciplinary perspective (allows students to take on different roles and think in interdisciplinary terms)
+    - integrated assessment (real world evaluation)
+    - polished products (encourage the creation on whole product)
+    - multiple interpretations and outcomes (allow exercises for diverse interpretations)
+
+  - As long as the culture and social aspect are being covered, student remain motivated despite encountering frustrations at the beginning.
+    - The exercises should be geared to make students feel involved and important to the cause
+  - Authentic learning practices:
+    - Simulation-Based Learning:
+      - These systems provide role-playing to improve communication, collaboration, and leadership skills.
+    - Student-Created Media:
+      - presenting rationale on decision making
+    - Inquiry-Based Learning (Open Learning Initiatives):
+      - students are given unfamiliar tasks and are constantly assesses for comprehension to acquire a skill; then they are tested on these skills by further exercises.
+    - Peer-Based Evaluation:
+      - students are put in a peer review environment where they take different roles; students are usually asked to grade or submit an assignment for other students to grade.
+    - Working with Remote Instruments
+    - Working with Research Data
+    - Reflecting and Documenting Achievements
+      - exercises that allow students to reflect on their own learning processes: group reviews, question project assumptions.
+
+- **How does IT Support Authentic Learning?**
+  - Learn by access to research data and virtual systems
+  - The importance of collaboration: Without community participation it is difficult for authentic learning to be effective even with all the technologies, tools, and information we have access to.
+  - collaboration enables learners the will to want to share ideas and information and document them.
+  - Other important communication tools used in authentic learning:
+    - Intelligent tutoring systems
+    - Concept mapping
+    - immediate feedback
+    - reflection opportunities so as to take different learning paths or decisions; also a good way test different hypothesis and track behavioral data.
+  - Access to the global network of networks and mentors is also vital and e-learning technologies must support this to proof effective.
+  - Other important technological support for effective authentic learning:
+    - high-speed Internet
+    - asynchronous and synchronous communication and social networking tools.
+    - mechanisms to allow student to transfer learning to new situations.
+    - mobile access for filling in information from field visits
+
+- **What makes Authentic Learning Effective?**
+  - Principles between learning research and authentic learning:
+    - Learners look for connections - students need to be engaged with unknown knowledge
+    - Long-lived attachments come with practice  
+    - New contexts need to be explored - linked with settings, people, and activities
+  - Study on the educators:
+    - Experts have blind sports - lecturers become detached from the learner's perspective as they become expert in their fields.
+    - Educators evoke feelings - lecturers need to keep motivating the learners through constant feedback
+    - Higher education should include the conative domain

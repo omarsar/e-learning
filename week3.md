@@ -97,4 +97,82 @@ Discussions on the web must be guided in a way such that the students participat
     - Depth of dicussion should be encouraged
     - Summarized notes is a proper activity for students; minimal guidance should be provides before hand on what is expected; feedback is also important to encourage deep conversations instead of just superficial thinking.
   - Activites to engage students in authentic problem-solving
-    - simulations; proper guidance or scaffolding needs to be provided in some cases. 
+    - simulations; proper guidance or scaffolding needs to be provided in some cases.
+
+---
+### Theoretical and Practical Considerations in the Design of Web-based Instruction
+Topics covered in the chapter:
+  - Instructional web features relating to structure, media, and communication capabilities
+  - Epistemology and cognitive learning theories
+  - Web Design factors: theoretical orientation, learning goals, content, learner characteristics, and technological capabilities.
+  - Issues for web designers
+  - Factors that affect web-based instruction: efficacy studies, technological advances, pressures of competition and cost containment, and professional responses to market influences.
+
+**Instructional web features relating to:**
+- Structure
+  - Web is non-linear, hierarchical, and associative, possessing a similarity to how cognitive models of memory are structured
+  - Learning involves the reorganization of cognitive structure (schemata)
+- Media
+  - Types: illustrations, pictures, animation, video, and sound (hypermedia)
+  - Important for the learning experience
+- Communication capabilities
+  - Computer mediated communication with different modalities (1 to 1, 1 to many, many to many)
+
+**Epistemology and cognitive learning theories**
+Epistemology is concerned with the nature of knowledge, and thus with questions of reality and truth.
+
+  - The **objectivist paradigm** posits knowledge as separate from and external to the knower.
+    - Objects and events have inherent meaning whether or note an individual has awareness of them.
+    - Here instructions must be symbolically represented as external knowledge so that learners can accurately acquire its meaning.
+      - This avoid perception bias or cognitive bias which is invevitable in humans.
+
+  - **Constructivism:**
+    - Knowledge is a subjective construction
+    - Reality and truth are relative (constructed) and not absolute (objective)
+    - Consensus achieved by interal congurence of understanding or through social negotiation with others.
+
+  - **Epistemology and Technology**
+    - Epistemology informs learning and instruction theories that, in turn, suggest applications of Web technologies.
+    - To teach effectively one must have good theory of learning, know definition of learning and beliefs about how learning takes place
+      - One must also understand that learning presupposes a philosophical position.
+    - *Information processing theory* are associated with presentation and representation
+    - *Constructivist Theory* is associate with construction
+  - **Epistemology and Practise**
+    - There are two types of instructing strategies:
+      - Atheoretical - ad-hoc approaches
+      - Theoretical (recommended approach) - knowledge represented through two learning theories: objectivist information processing theory versus constructivist learning approaches.
+    - Choosing the strategy for teaching using Web-based technology must be grounded on both theories
+
+**Factors that Influences the Design of Web-Based Instruction**
+They are mainly:
+  - **Theoretical orientation for Instruction**
+    - Information Processing Theory ("mind as computer") - knowledge constucted already; focus on delivering
+      - Posits that the mind consists of basic elements, such as structure and processes to acquire knowledge (objectivist viewpoint)
+      - Important how learners encode, process, and retrieve information
+      - Appropirately designed instructional strategies (analogies, hierarchy, prior knowledge) aid acquisition of knowledge.
+      - Different levels of interactivity are required for memorization than for problem solving; involve different cognitive processes
+    - Constructivism - requires knowing how leaners make meaning so as to promote knowledge construction
+      - Doesn't require prescriptive presentation or accurate knowledge representation as in the objectivist approach
+      - Require different strategies to construct or make meaning
+        - Collaboration - promote conversation among learners to obtain knowledge
+        - Diverse perspectives - tasks to create different views
+        - Authentic context - knowledge only has meaning in context; involves coaching, modeling, and scaffolding
+
+  - **Learning goals**
+    - Objectivist - the learning goal is to acquire knowledge
+    - Constructivist - the learning goal is to construct meaningful knowledge
+  - **Content**
+    - Choice of theory influences content to be presentented in instruction
+    - Objectivist - from simple to complex concepts are presented
+    - Constructivist - case studies or problem solving techniques are used for learning
+  - **Learner characteristics** - When allows to surf the web freely, learners, especially novice ones, are not guaranteed to learn; the different categories are as follows:
+    - Cognitive characteristics
+    - Motivation
+      - Interest in or attention to the information and the Technology  
+      - perceived relevance of the information
+      - successful access to and usefulness of the information
+      - resulting satisfaction from successful access to and usefulness of the information
+    - Knowledge
+      - prior knowledge is important in hypertext media
+    - Social context
+  - Technological capabilities
